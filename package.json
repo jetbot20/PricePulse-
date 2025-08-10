@@ -1,0 +1,12 @@
+{
+  "name": "pricepulse-user-guide",
+  "version": "1.0.0",
+  "description": "Static user guide for PricePulse assistant",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
